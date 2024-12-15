@@ -25,11 +25,9 @@ Haz clic en "Generar Contraseña" para obtener una contraseña segura.
 Copia la contraseña al portapapeles utilizando el botón "Copiar Contraseña".
 
 Capturas de pantalla
+
 <img width="496" alt="Captura de pantalla 2024-12-15 a la(s) 2 46 32 p  m" src="https://github.com/user-attachments/assets/a67ca828-87b1-4e93-8b2e-816e74649276" />
+<img width="497" alt="Captura de pantalla 2024-12-15 a la(s) 2 46 42 p  m" src="https://github.com/user-attachments/assets/21620132-1f52-4843-9075-379dfee53c4f" />
+<img width="496" alt="Captura de pantalla 2024-12-15 a la(s) 2 46 53 p  m" src="https://github.com/user-attachments/assets/1eb0c3a8-519d-4dea-b980-9638593a2965" />
+<img width="498" alt="Captura de pantalla 2024-12-15 a la(s) 2 47 02 p  m" src="https://github.com/user-attachments/assets/a55237f2-fdaf-4af1-a6b5-e590d45af2e3" />
 
-
-Contribuciones
-Las contribuciones son bienvenidas. Si encuentras algún error o tienes sugerencias para mejorar el proyecto, siéntete libre de abrir un issue o enviar un pull request.
-Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
